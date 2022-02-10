@@ -1,3 +1,7 @@
 My data structures
-My sunny algorithms
+
+My simple algorithms
+=======
+My simple algorithms
+
 I am so happy
