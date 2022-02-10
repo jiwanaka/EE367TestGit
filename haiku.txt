@@ -1,3 +1,7 @@
 My data structures
+
 My simple algorithms
+=======
+My simple algorithms
+
 I am so happy
